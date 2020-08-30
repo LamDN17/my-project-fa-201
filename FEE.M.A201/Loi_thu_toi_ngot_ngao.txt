@@ -1,0 +1,12 @@
+<!-- Góc thú tội -->
+Em nhìn các bạn gõ code liên tục với những dòng code uyển chuyển mà em 
+hoa cả mắt, mặc dù đây chỉ là bài tập về phần Bootstrap4 theo em nghĩ nó 
+vẫn chưa khó lắm nhưng em đã cố gắng hết khả năng của mình, kết quả thì
+vẫn chưa được hoàn hảo ạ.Em biết về những phần sau nữa như JS,ES6 còn 
+khó hơn nhưng em sẽ cố gắng hết khả năng của bản thân, em có điểm yếu về 
+khả năng tư duy logic vì vậy nên nhiều môn học trên lớp em biết được cách 
+giải quyết nhưng vẫn không trình bày được ra đáp số. Em viết những dòng 
+này em chỉ tâm sự về khả năng của em,em không có ý gì khác đâu ạ. Em rất 
+mong chỉ em và chị biết được "Lờithú tội ngọt ngào" của em thôi ạ, chị đừng 
+cho người thứ ba biết chị nhé. Em chúc chị nhiều sức khỏe ạ. Em cảm ơn chị ạ <3.
+

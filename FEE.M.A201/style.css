@@ -1,0 +1,159 @@
+*{margin:0 padding:0;}
+
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+}
+/* Khoi thu hai */
+.khoithuhai{
+    background-size: cover;
+    background-image:url(1.jpg);
+    width: 100%;
+    height: 100%;
+    padding:150px;
+    text-align: center;
+}
+
+.khoithuhai h1{
+    display: block;
+    font-size:42px;
+    color:white;
+}
+
+/* Het khoi thu hai */
+
+/* Khoi thu ba */
+.khoithuba{
+    display: block;
+    width: 100%;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.khoithuba .fa{
+    font-size: 55px;
+    color: rgb(85, 196, 233)
+}
+.khoithuba h3{
+    font-size:30px;
+
+}
+.khoithuba p{
+    font-size:20px;
+}
+
+/* Het khoi thu ba */
+
+/* Khoi thu tu */
+h2{
+    padding-top: 110px;
+    padding-left: 36px
+}
+
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 0px;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+/* Het khoi thu tu */
+
+/* Khoi thu nam */
+.khoithunam{
+    display:block;
+    text-align: center;
+    padding-left: 121px;
+    padding-right: 121px;
+}
+.khoithunam h2{
+   margin-bottom: 48px;
+   padding-top: 87px;
+}
+
+.khoithunam .picture-items {
+    padding: 0px;
+    max-width: 18rem;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.khoithunam .picture-items img {
+    max-width: 12rem;
+}
+.khoithunam .picture-items p {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0px;
+    font-size:15px;
+}
+.picture{
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.picture .text-center{
+   text-align: center!important;
+}
+.radius{
+    border-radius: 50%;
+}
+/* Het khoi thu nam */
+
+/* Khoi thu sau */
+.khoithusau{
+    background-size:cover;
+    background-image:url(1.jpg);
+    width: 100%;
+    height: 333;
+    padding-top:100px;
+    text-align:center;
+}
+.khoithusau h1{
+    margin-left: -23px;
+    font-size:37px;
+    color:white;
+    margin-bottom: 30px;
+}
+.khoithusau .cochu{
+    padding-bottom: 80px;
+}
+.khoithusau .login{
+    padding-bottom:50px;
+}
+/* Het khoi thu sau */
+
+/* Khoi cuoi cung */
+ul.mb-2{
+    list-style: none;
+    width: 100%;
+    padding-bottom: 26px;
+}
+ul li{
+    padding-top:45px;
+    display: inline-block;
+}
+ul p{
+    display: block;
+    font-size: 15px;
+    font-family: segoe ui light;
+    margin-left: 0;
+    margin-left: 0;
+}
+
+ul.icon{
+    color: rgb(73, 73, 221);
+    font-size: 30px;
+    text-align: right;
+    padding-right: 75px;
+}
+ul.icon i{
+    margin: 5px;
+}
+/* Het khoi cuoi cung */
